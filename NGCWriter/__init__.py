@@ -14,7 +14,7 @@ def getMetaData():
             "author": "Strahlex",
             "version": "1.0",
             "description": catalog.i18nc("NGC Writer Plugin Description", "Writes RS-274 GCode to a file"),
-            "api": 2
+            "api": 3
         },
 
         "mesh_writer": {
